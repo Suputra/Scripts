@@ -1,0 +1,17 @@
+{
+    "base_storage_dir": "/Users/suputra/Library/Application Support/SecurityCam",
+    "cameras": [
+        {
+            "id": "camera1",
+            "device_id": 0,
+            "max_storage_gb": 50,
+            "chunk_duration_mins": 60
+        },
+        {
+            "id": "camera2",
+            "device_id": 1,
+            "max_storage_gb": 50,
+            "chunk_duration_mins": 60
+        }
+    ]
+}
